@@ -1,0 +1,20 @@
+.name {
+  color: rgb(14, 123, 148);
+  text-align: center;
+  font-size: 100px;
+}
+
+#alarmTime {
+  color: rgb(11, 52, 90);
+  font-size: 80px;
+  margin-left: 24px;
+  margin-right: auto;
+}
+
+#alarmButton {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 84px;
+  color: rgb(11, 52, 90);
+}
